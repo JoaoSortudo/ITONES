@@ -1,0 +1,15 @@
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\bin\Debug\net6.0\Testando do while.exe
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\bin\Debug\net6.0\Testando do while.deps.json
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\bin\Debug\net6.0\Testando do while.runtimeconfig.json
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\bin\Debug\net6.0\Testando do while.dll
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\bin\Debug\net6.0\Testando do while.pdb
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\Testando do while.csproj.AssemblyReference.cache
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\Testando do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\Testando do while.AssemblyInfoInputs.cache
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\Testando do while.AssemblyInfo.cs
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\Testando do while.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\Testando do while.dll
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\refint\Testando do while.dll
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\Testando do while.pdb
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\Testando do while.genruntimeconfig.cache
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\Testando do while\obj\Debug\net6.0\ref\Testando do while.dll
